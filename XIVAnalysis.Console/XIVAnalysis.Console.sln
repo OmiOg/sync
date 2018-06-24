@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIVAnalysis.Console", "XIVAnalysis.Console\XIVAnalysis.Console.csproj", "{FC21CC4D-DB53-4F88-AB42-EEF054027FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIVAnalysis.Sync", "XIVAnalysis.Sync\XIVAnalysis.Sync.csproj", "{03B81632-4C11-4B84-B786-26B28C66D5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC21CC4D-DB53-4F88-AB42-EEF054027FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC21CC4D-DB53-4F88-AB42-EEF054027FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC21CC4D-DB53-4F88-AB42-EEF054027FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC21CC4D-DB53-4F88-AB42-EEF054027FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B81632-4C11-4B84-B786-26B28C66D5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B81632-4C11-4B84-B786-26B28C66D5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B81632-4C11-4B84-B786-26B28C66D5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B81632-4C11-4B84-B786-26B28C66D5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69DDC141-0CE5-4DA1-B3E0-74302A5D137D}
+	EndGlobalSection
+EndGlobal
