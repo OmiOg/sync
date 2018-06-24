@@ -1,1 +1,1 @@
-# sync
+Sync is a C# Based Application used to generate action files for the xivanalysis project based on external data from a potential variety of sources.
